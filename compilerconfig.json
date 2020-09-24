@@ -1,0 +1,27 @@
+﻿[
+  {
+    "outputFile": "wwwroot/css/main.css",
+    "inputFile": "Styles/main.scss",
+    "compilers": {
+      "sass": {
+        "autoPrefix": "",
+        "includePath": "",
+        "indentType": "space",
+        "indentWidth": 2,
+        "outputStyle": "nested",
+        "Precision": 5,
+        "relativeUrls": true,
+        "sourceMapRoot": "",
+        "lineFeed": "",
+        "sourceMap": true
+      }
+    },
+    "minifiers": {
+      "css": {
+        "enabled": true,
+        "termSemicolons": true,
+        "gzip": false
+      }
+    }
+  }
+]
